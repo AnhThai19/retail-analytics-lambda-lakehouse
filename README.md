@@ -8,9 +8,9 @@ This project combines **Lambda Architecture** and a **Lakehouse-style Medallion 
 
 ## Project Status
 
-**Status:** In Progress / Portfolio Version
+**Status:** Completed / Portfolio Version
 
-This project was developed as a Big Data final project and is currently published as a portfolio-ready version.
+This project was developed as a Big Data final project and has been completed as a portfolio-ready project.
 
 The core data pipeline has been implemented, including:
 
@@ -21,8 +21,6 @@ The core data pipeline has been implemented, including:
 - MySQL Serving Layer
 - Power BI dashboard
 - Market Basket Analysis for product recommendation insights
-
-Some future improvements are planned, such as cloud deployment, Delta Lake integration, real-time Power BI refresh, and more advanced recommendation models.
 
 ---
 
