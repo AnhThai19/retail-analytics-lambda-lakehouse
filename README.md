@@ -499,19 +499,6 @@ This project demonstrates practical experience in:
 - Retail analytics
 - Recommendation logic
 
----
-
-## Suggested CV Description
-
-**Retail Analytics Lambda Lakehouse — Big Data Engineering Project**
-
-- Built an end-to-end Big Data pipeline for UK retail transaction analytics using Kafka, Spark, HDFS, MySQL, and Power BI.
-- Designed a Lambda Architecture with batch and streaming layers to support both historical analytics and near real-time processing.
-- Implemented Bronze/Silver/Gold data layers on HDFS using PySpark for data cleaning, enrichment, aggregation, and analytics.
-- Developed Market Basket Analysis to discover frequently purchased product pairs and support cross-selling recommendations.
-- Created a MySQL Serving Layer and Power BI dashboard to visualize revenue, customer, product, country, weather, and holiday insights.
-
----
 
 ## Author
 
