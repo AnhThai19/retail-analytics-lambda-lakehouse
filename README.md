@@ -378,6 +378,8 @@ Dashboard analysis includes:
 - Holiday impact on sales
 - Product recommendation insights
 
+![Dashboard](images/dashboard.jpg)
+
 ---
 
 ## Business Insights
